@@ -17,7 +17,7 @@ I solved it using the online tool **[dCode RSA Cipher](https://www.dcode.fr/rsa-
 
 ---
 
-**Flag** 
-```python```
+**Flag : ** 
+```python
 utflag{just_send_plaintext}
 ```
